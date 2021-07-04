@@ -32,3 +32,6 @@ yarn-error.log*
 package-lock.json
 
 debug.log
+
+#editor
+.idea
